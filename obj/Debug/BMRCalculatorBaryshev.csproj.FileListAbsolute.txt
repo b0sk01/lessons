@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\BMRCalculatorBaryshev\bin\Debug\BMRCalculatorBaryshev.exe.config
+C:\Users\student\source\repos\BMRCalculatorBaryshev\bin\Debug\BMRCalculatorBaryshev.exe
+C:\Users\student\source\repos\BMRCalculatorBaryshev\bin\Debug\BMRCalculatorBaryshev.pdb
+C:\Users\student\source\repos\BMRCalculatorBaryshev\obj\Debug\BMRCalculatorBaryshev.csprojAssemblyReference.cache
+C:\Users\student\source\repos\BMRCalculatorBaryshev\obj\Debug\BMRCalculatorBaryshev.Form1.resources
+C:\Users\student\source\repos\BMRCalculatorBaryshev\obj\Debug\BMRCalculatorBaryshev.Properties.Resources.resources
+C:\Users\student\source\repos\BMRCalculatorBaryshev\obj\Debug\BMRCalculatorBaryshev.csproj.GenerateResource.cache
+C:\Users\student\source\repos\BMRCalculatorBaryshev\obj\Debug\BMRCalculatorBaryshev.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\BMRCalculatorBaryshev\obj\Debug\BMRCalculatorBaryshev.exe
+C:\Users\student\source\repos\BMRCalculatorBaryshev\obj\Debug\BMRCalculatorBaryshev.pdb

@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\WindowsFormsApp2Baryshev\bin\Debug\WindowsFormsApp2Baryshev.exe.config
+C:\Users\student\source\repos\WindowsFormsApp2Baryshev\bin\Debug\WindowsFormsApp2Baryshev.exe
+C:\Users\student\source\repos\WindowsFormsApp2Baryshev\bin\Debug\WindowsFormsApp2Baryshev.pdb
+C:\Users\student\source\repos\WindowsFormsApp2Baryshev\obj\Debug\WindowsFormsApp2Baryshev.csprojAssemblyReference.cache
+C:\Users\student\source\repos\WindowsFormsApp2Baryshev\obj\Debug\WindowsFormsApp2Baryshev.Form1.resources
+C:\Users\student\source\repos\WindowsFormsApp2Baryshev\obj\Debug\WindowsFormsApp2Baryshev.Properties.Resources.resources
+C:\Users\student\source\repos\WindowsFormsApp2Baryshev\obj\Debug\WindowsFormsApp2Baryshev.csproj.GenerateResource.cache
+C:\Users\student\source\repos\WindowsFormsApp2Baryshev\obj\Debug\WindowsFormsApp2Baryshev.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\WindowsFormsApp2Baryshev\obj\Debug\WindowsFormsApp2Baryshev.exe
+C:\Users\student\source\repos\WindowsFormsApp2Baryshev\obj\Debug\WindowsFormsApp2Baryshev.pdb
+C:\Users\student\source\repos\WindowsFormsApp2Baryshev\obj\Debug\WindowsFormsApp2Baryshev.About.resources
